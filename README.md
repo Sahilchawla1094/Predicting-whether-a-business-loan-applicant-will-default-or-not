@@ -9,3 +9,6 @@ You have to predict whether a business loan applicant will default or not.
 Metric to measure
 
 The metric to measure is the F1_Score. F1_Score is the harmonic mean of Recall and Precision. Please visit the link for more details on F1_Score- https://en.wikipedia.org/wiki/F-score
+
+
+Dataset is big kindly download it from this link. https://1drv.ms/u/s!AoWG_j5pTUn6mw2-VSe_3Fj5qvsu?e=gmDlsZ
